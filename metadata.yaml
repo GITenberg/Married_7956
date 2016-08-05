@@ -1,0 +1,41 @@
+_repo: Married_7956
+_version: 0.0.1
+alternative_title: Giftas. English
+contributor:
+  author_of_introduction:
+    agent_name: Seltzer, Thomas
+    birthdate: 1873
+    deathdate: 1943
+    gutenberg_agent_id: '5085'
+    url: http://www.gutenberg.org/2009/agents/5085
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Seltzer_%28translator%29
+creator:
+  author:
+    agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7956'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Sweden -- Fiction'
+- !lcsh 'Marriage -- Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: Asra -- Love and bread -- Compelled to -- Compensation -- Frictions
+  -- Unnatural selection -- An attempt at reform -- A natural obstacle -- A doll's
+  house -- Phoenix -- Romeo and Julia -- Proflicacy -- Autumn -- Compulsory marriage
+  -- Corinna -- Unmarried and married -- A duel -- His servant -- The breadwinner.
+title: Married
+url: http://www.gutenberg.org/ebooks/7956
