@@ -1,5 +1,5 @@
 _repo: Married_7956
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Giftas. English
 contributor:
   author_of_introduction:
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '5085'
     url: http://www.gutenberg.org/2009/agents/5085
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Seltzer_%28translator%29
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Strindberg, August
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1609
     wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7956#Married
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
 identifiers:
